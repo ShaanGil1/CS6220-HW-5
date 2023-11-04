@@ -1,6 +1,6 @@
 # CS6220-HW-5
-# HW4 CS6220
 # Installation
+- Download and follow instruction for Deepwalk: https://github.com/phanein/deepwalk <br>
 - Install conda from: https://www.anaconda.com/ <br>
 - Extract all files into a folder <br>
 - In the root of the folder run the following line using conda command line<br>
